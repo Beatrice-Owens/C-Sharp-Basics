@@ -16,7 +16,7 @@ namespace AbstractClassSub
         //2. virtual void method combining and displaying first and last names of Person
         public virtual void SayName()
         {
-            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+            
         }
     }
 }

@@ -12,7 +12,7 @@ namespace AbstractClassSub
         //4. implement SayName() from Person inside Employee
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
         }
     }
 }
