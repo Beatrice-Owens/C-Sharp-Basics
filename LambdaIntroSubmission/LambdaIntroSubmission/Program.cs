@@ -44,6 +44,16 @@ namespace LambdaIntroSubmission
             }
             Console.ReadLine(); //pause
 
+            //simplified Joes list into single lambda expression
+            List<Employee> JoesLambda = Employees.FindAll(x => x.FirstName == "Joe");
+
+            //same loop as before but modified to make sure it worked
+            foreach (Employee joe in JoesLambda)
+            {
+                Console.WriteLine("All Joes: Id: {0}, First Name: {1}, Last Name: {2}", joe.Id, joe.FirstName, joe.LastName);
+            }
+            Console.ReadLine(); //pause
+
             //create list based on all entries in Employees list with an Id > 5
             List<Employee> HighID = Employees.FindAll(x => x.Id > 5);
 
