@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\bin\Debug\PackagePriceQuote.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\bin\Debug\PackagePriceQuote.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\bin\Debug\PackagePriceQuote.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\obj\Debug\PackagePriceQuote.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\obj\Debug\PackagePriceQuote.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\obj\Debug\PackagePriceQuote.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\PackagePriceQuote\PackagePriceQuote\obj\Debug\PackagePriceQuote.pdb

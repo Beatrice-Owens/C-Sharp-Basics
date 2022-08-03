@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\bin\Debug\EnumSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\bin\Debug\EnumSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\bin\Debug\EnumSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\obj\Debug\EnumSubmission.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\obj\Debug\EnumSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\obj\Debug\EnumSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\EnumSubmission\EnumSubmission\obj\Debug\EnumSubmission.pdb

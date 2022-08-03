@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\CallingMethodsSubmission\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.pdb

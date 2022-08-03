@@ -1,0 +1,6 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AcmeAccountingConsole\AcmeAccountingConsole\bin\Debug\AcmeAccountingConsole.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AcmeAccountingConsole\AcmeAccountingConsole\bin\Debug\AcmeAccountingConsole.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AcmeAccountingConsole\AcmeAccountingConsole\bin\Debug\AcmeAccountingConsole.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AcmeAccountingConsole\AcmeAccountingConsole\obj\Debug\AcmeAccountingConsole.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AcmeAccountingConsole\AcmeAccountingConsole\obj\Debug\AcmeAccountingConsole.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AcmeAccountingConsole\AcmeAccountingConsole\obj\Debug\AcmeAccountingConsole.pdb

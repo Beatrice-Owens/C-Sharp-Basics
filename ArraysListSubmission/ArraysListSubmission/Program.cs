@@ -18,15 +18,10 @@ class Program
         {
             //nested if/else if/else statements to check for relevant data, and
             //if none is found, restart the sequence with appropriate data
-            if (strIndexGuess > 6) //over 6 is over the indices possible for this array
+            if (strIndexGuess > 6 || strIndexGuess < 0) //over 6 or under 0 is outside the indices possible for this array
             {
                 Console.WriteLine("Oops. Please select an index between 0 and 6."); //user didn't guess in proper param
                 strIndexGuess = Convert.ToInt32(Console.ReadLine()); //reassigning index input var with new info
-            }
-            else if (strIndexGuess < 0) //under 0 is below lowest index in the array
-            {
-                Console.WriteLine("Oops. Please select an index between 0 and 6."); //try b/w these numbers
-                strIndexGuess = Convert.ToInt32(Console.ReadLine()); //reassigning
             }
             else //the input fits the relevant index identifiers
             {
@@ -50,15 +45,10 @@ class Program
 
         do //check for correct answer before while loop starts
         {
-            if (numIndexGuess > 5) //input over 5:
+            if (numIndexGuess > 5 || numIndexGuess < 0) //input over 5 or under 0:
             {
                 Console.WriteLine("Oops. Please select an index between 0 and 5.");
                 numIndexGuess = Convert.ToInt32(Console.ReadLine()); //new input from user saved to int var
-            }
-            else if (numIndexGuess < 0) //input under 0:
-            {
-                Console.WriteLine("Oops. Please select an index between 0 and 5.");
-                numIndexGuess = Convert.ToInt32(Console.ReadLine());
             }
             else //input was in relevant param
             {
@@ -92,16 +82,11 @@ class Program
 
         do //b4 while loop check for relevant input
         {
-            if (saganListPick > saganStringCount) //when input is too high:
+            if (saganListPick > saganStringCount || saganListPick < 0) //when input is too high or low:
             {
                 //writing a response: have to use a var b/c lists are dynamic
                 Console.WriteLine("Oops. Please select an index between 0 and " + saganStringCount + ".");
                 saganListPick = Convert.ToInt32(Console.ReadLine()); //changing var with new input
-            }
-            else if (saganListPick < 0) //input is too low
-            {
-                Console.WriteLine("Oops. Please select an index between 0 and and " + saganStringCount + ".");
-                saganListPick = Convert.ToInt32(Console.ReadLine());
             }
             else //input is relevant to available indices
             {

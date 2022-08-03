@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\bin\Debug\MainMethodSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MainMethodSubmission\MainMethodSubmission\obj\Debug\MainMethodSubmission.pdb

@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\bin\Debug\AbstractClassSub.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\bin\Debug\AbstractClassSub.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\bin\Debug\AbstractClassSub.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\AbstractClassSub\AbstractClassSub\obj\Debug\AbstractClassSub.pdb

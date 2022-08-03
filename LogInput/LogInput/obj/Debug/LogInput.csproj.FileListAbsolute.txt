@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\bin\Debug\LogInput.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\bin\Debug\LogInput.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\bin\Debug\LogInput.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\obj\Debug\LogInput.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\obj\Debug\LogInput.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\obj\Debug\LogInput.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LogInput\LogInput\obj\Debug\LogInput.pdb

@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\bin\Debug\SixPartIteration.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\bin\Debug\SixPartIteration.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\bin\Debug\SixPartIteration.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\obj\Debug\SixPartIteration.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\obj\Debug\SixPartIteration.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\obj\Debug\SixPartIteration.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\SixPartIteration\SixPartIteration\obj\Debug\SixPartIteration.pdb

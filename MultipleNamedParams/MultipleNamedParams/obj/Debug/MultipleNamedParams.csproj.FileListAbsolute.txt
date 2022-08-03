@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\bin\Debug\MultipleNamedParams.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\bin\Debug\MultipleNamedParams.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\bin\Debug\MultipleNamedParams.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\obj\Debug\MultipleNamedParams.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\obj\Debug\MultipleNamedParams.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\obj\Debug\MultipleNamedParams.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\MultipleNamedParams\MultipleNamedParams\obj\Debug\MultipleNamedParams.pdb

@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.pdb

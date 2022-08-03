@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb

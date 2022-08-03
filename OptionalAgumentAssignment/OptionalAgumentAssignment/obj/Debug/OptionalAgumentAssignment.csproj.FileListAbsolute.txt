@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\bin\Debug\OptionalAgumentAssignment.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\bin\Debug\OptionalAgumentAssignment.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\bin\Debug\OptionalAgumentAssignment.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\obj\Debug\OptionalAgumentAssignment.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\obj\Debug\OptionalAgumentAssignment.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\obj\Debug\OptionalAgumentAssignment.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\OptionalAgumentAssignment\OptionalAgumentAssignment\obj\Debug\OptionalAgumentAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\bin\Debug\LambdaIntroSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\bin\Debug\LambdaIntroSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\bin\Debug\LambdaIntroSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\obj\Debug\LambdaIntroSubmission.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\obj\Debug\LambdaIntroSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\obj\Debug\LambdaIntroSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\LambdaIntroSubmission\LambdaIntroSubmission\obj\Debug\LambdaIntroSubmission.pdb

@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\bin\Debug\TryCatchSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\bin\Debug\TryCatchSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\bin\Debug\TryCatchSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\obj\Debug\TryCatchSubmission.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\obj\Debug\TryCatchSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\obj\Debug\TryCatchSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\TryCatchSubmission\TryCatchSubmission\obj\Debug\TryCatchSubmission.pdb

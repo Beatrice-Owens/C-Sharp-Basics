@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\bin\Debug\WhileDoWhileSubmission.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\bin\Debug\WhileDoWhileSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\bin\Debug\WhileDoWhileSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\obj\Debug\WhileDoWhileSubmission.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\obj\Debug\WhileDoWhileSubmission.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\obj\Debug\WhileDoWhileSubmission.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\WhileDoWhileSubmission\WhileDoWhileSubmission\obj\Debug\WhileDoWhileSubmission.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\bin\Debug\InheritanceMethodsAndObjects.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\bin\Debug\InheritanceMethodsAndObjects.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\bin\Debug\InheritanceMethodsAndObjects.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\obj\Debug\InheritanceMethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\obj\Debug\InheritanceMethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\obj\Debug\InheritanceMethodsAndObjects.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\InheritanceMethodsAndObjects\InheritanceMethodsAndObjects\obj\Debug\InheritanceMethodsAndObjects.pdb
