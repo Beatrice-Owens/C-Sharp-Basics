@@ -1,0 +1,7 @@
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\bin\Debug\ChainingConstructors.exe.config
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\bin\Debug\ChainingConstructors.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\bin\Debug\ChainingConstructors.pdb
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\obj\Debug\ChainingConstructors.csproj.AssemblyReference.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\obj\Debug\ChainingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\obj\Debug\ChainingConstructors.exe
+C:\Users\point\Documents\GitHub\C-Sharp-Basics-TTA\ChainingConstructors\ChainingConstructors\obj\Debug\ChainingConstructors.pdb
