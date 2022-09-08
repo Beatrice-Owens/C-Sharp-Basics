@@ -1,0 +1,7 @@
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\bin\Debug\ClassesObjectsBlackjackTutorial.exe.config
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\bin\Debug\ClassesObjectsBlackjackTutorial.exe
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\bin\Debug\ClassesObjectsBlackjackTutorial.pdb
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\obj\Debug\ClassesObjectsBlackjackTutorial.csproj.AssemblyReference.cache
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\obj\Debug\ClassesObjectsBlackjackTutorial.csproj.CoreCompileInputs.cache
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\obj\Debug\ClassesObjectsBlackjackTutorial.exe
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\ClassesObjectsBlackjackTutorial\obj\Debug\ClassesObjectsBlackjackTutorial.pdb

@@ -1,0 +1,10 @@
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\bin\Debug\ClassesObjectsBlackjackTutorial.exe.config
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\bin\Debug\ClassesObjectsBlackjackTutorial.exe
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\bin\Debug\ClassesObjectsBlackjackTutorial.pdb
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\obj\Debug\ClassesObjectsBlackjackTutorial.exe
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\obj\Debug\ClassesObjectsBlackjackTutorial.pdb
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\bin\Debug\Casino.dll
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\point\Desktop\Basic_C#_Programs\ClassesObjectsBlackjackTutorial\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
